@@ -1,1 +1,39 @@
-# project-rain
+# Project Rain 
+
+Open-source release of Project Rain.
+
+## About
+
+This is a partially stripped version of Project Rain, released for people who want to look through the source code and work on restoring what's missing.
+
+Some initialization code has been removed, comments have been stripped, and indentation has been changed. Because of this, the project may not work out of the box.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/unionizing/project-rain-oss.git
+cd project-rain-oss
+```
+
+The source code is in `src/`. You'll need to look through it to figure out the required dependencies and initialization steps before trying to run anything.
+
+## Notes
+
+- Some initialization code is missing.
+- Comments have been removed.
+- Indentation has been changed.
+- Additional work may be needed to get the project running.
+
+## Contributing
+
+Feel free to fork the repository and experiment with the code. If you fix something or get a part of the project working, pull requests are welcome.
+
+## License
+
+Check the repository for licensing information before reusing or redistributing the code.
+
+---
+
+**Repository:** https://github.com/4z7t/project-rain
