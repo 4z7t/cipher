@@ -28,11 +28,21 @@ The source code is in `src/`. You'll need to look through it to figure out the r
 
 ## Contributing
 
-Feel free to fork the repository and experiment with the code. If you fix something or get a part of the project working, pull requests are welcome.
+Feel free to fork the repository and experiment with the code. If you contribute improvements, pull requests are welcome.
 
-## License
+## License & Attribution
 
-Check the repository for licensing information before reusing or redistributing the code.
+If you use, modify, or redistribute any part of Cipher, you must clearly credit the original author and include a link to this repository:
+
+https://github.com/4z7t/cipher
+
+Removing attribution, claiming this work as your own, or redistributing the project without required credit is not permitted.
+
+Failure to comply may result in a formal takedown request or further legal action where applicable. Unauthorized use and misrepresentation of this project will be taken seriously.
+
+**Respect the original work. Give credit where it's due.**
+
+For licensing terms and permissions, refer to the license file in this repository. If no license file is present, do not assume that the project is licensed for unrestricted reuse or redistribution.
 
 ---
 
