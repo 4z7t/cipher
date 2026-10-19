@@ -1,10 +1,10 @@
-# Project Rain 
+# Cipher
 
-Open-source release of Project Rain.
+Open-source release of Cipher.
 
 ## About
 
-This is a partially stripped version of Project Rain, released for people who want to look through the source code and work on restoring what's missing.
+This is a partially stripped version of Cipher, released for people who want to look through the source code and work on restoring what's missing.
 
 Some initialization code has been removed, comments have been stripped, and indentation has been changed. Because of this, the project may not work out of the box.
 
@@ -36,4 +36,4 @@ Check the repository for licensing information before reusing or redistributing 
 
 ---
 
-**Repository:** https://github.com/4z7t/project-rain
+**Repository:** https://github.com/unionizing/project-rain-oss
