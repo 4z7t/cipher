@@ -13,7 +13,7 @@ Some initialization code has been removed, comments have been stripped, and inde
 Clone the repository:
 
 ```bash
-git clone https://github.com/unionizing/project-rain-oss.git
+git clone https://github.com/4z7t/cipher.git
 cd project-rain-oss
 ```
 
@@ -36,4 +36,4 @@ Check the repository for licensing information before reusing or redistributing 
 
 ---
 
-**Repository:** https://github.com/unionizing/project-rain-oss
+**Repository: https://github.com/4z7t/cipher
